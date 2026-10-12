@@ -28,13 +28,9 @@ I'm currently an Associate Analytics Engineer at Jazz (PMCL), working on product
 - [**ThisAnimalDoesNotExist**](https://github.com/chtanzeel/ThisAnimalDoesNotExist): a GAN that generates synthetic animal faces, served as a Gradio app on [Hugging Face Spaces](https://huggingface.co/spaces/chtanzeel4/ThisAnimalDoesNotExist).
 - [**FineTunedmBART**](https://github.com/chtanzeel/FineTunedmBART): fine-tuning mBART with LoRA, including the training notebook, adapter weights and tokenizer.
 
-<!--
-When a data engineering project is ready, add a section above the ML one like this:
+ ### Data engineering
 
-### Data engineering
-
-- [**project-name**](https://github.com/chtanzeel/project-name): one line on the problem. Stack: Python, Spark, Databricks, AWS.
--->
+ - [**flight-lakehouse**](https://github.com/chtanzeel/flight-lakehouse): medallion pipeline on PySpark and Delta Lake processing 3M flight records, with data quality quarantine, reconciliation checks, CI on two table formats and a Databricks/AWS deployment guide.
 
 ## Education and certification
 
