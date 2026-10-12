@@ -42,3 +42,4 @@ I'm currently an Associate Analytics Engineer at Jazz (PMCL), working on product
 
 - Upwork: [Choudhry T.](https://www.upwork.com/freelancers/~0187fd7fb63c341c93)
 - Email: [chtanzeel015@gmail.com](mailto:chtanzeel015@gmail.com)
+- Portfolio: [Choudhry Tanzeel](https://chtanzeel.github.io/)
